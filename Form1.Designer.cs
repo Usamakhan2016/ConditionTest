@@ -73,6 +73,7 @@
             button2.TabIndex = 3;
             button2.Text = "IF..ElseTest";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -82,6 +83,7 @@
             button3.TabIndex = 4;
             button3.Text = "IF#1";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button4
             // 
@@ -91,6 +93,7 @@
             button4.TabIndex = 5;
             button4.Text = "IF#2";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button5
             // 
@@ -100,6 +103,7 @@
             button5.TabIndex = 6;
             button5.Text = "IF#3";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // Form1
             // 
